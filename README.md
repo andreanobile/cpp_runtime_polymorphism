@@ -1,2 +1,4 @@
-# cpp_runtime_polymorphism
-C++ runtime polymorphism as in the talks by Sean Parent
+# C++ Runtime Polymorphism example
+
+Awesomew code from teh talks of Sean Parent
+Better code : runtime polymorphism 
